@@ -1,5 +1,5 @@
-import ReactDOM from 'React-dom';
-import React from 'React';
+import ReactDOM from 'react-dom';
+import React from 'react';
 
 const App = () => {
  return <h1>React app component 👍</h1>;
